@@ -1,6 +1,5 @@
 # PROG
-## H2
-### H3
-#### H4
-##### H5
-###### H6  
+## Сухачева Валерия
+* Word
+* Adobe Photoshop
+* Adobe Lightroom
